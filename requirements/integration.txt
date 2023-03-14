@@ -46,13 +46,11 @@ platformdirs==3.1.1
     #   virtualenv
 pluggy==1.0.0
     # via tox
-pre-commit==2.20.0
+pre-commit==3.1.1
     # via -r integration.in
 pyproject-api==1.5.1
     # via tox
 pyyaml==5.4.1
-    # via pre-commit
-toml==0.10.2
     # via pre-commit
 tomli==1.2.1
     # via pep517
